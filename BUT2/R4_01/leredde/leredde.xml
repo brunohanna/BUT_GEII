@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\hbrun\Documents\leredde\leredde.kicad_sch</source>
+    <date>09/02/2024 14:38:13</date>
+    <tool>Eeschema 7.0.9</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>leredde.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>2,315uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D5.0mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="leredde.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff777e2d-b3a6-4792-ade0-8f33f4d5783d</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.1uF</value>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="leredde.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>83e6ce98-093c-4e40-bb13-73a35c0dc206</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.1uF</value>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="leredde.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e2a6434-cd67-45e0-9891-5a2a639fe716</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>4.7uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D5.0mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="leredde.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1cc71f1c-7926-48e3-a6b4-ce694bc65657</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>2.5nF</value>
+      <footprint>Capacitor_THT:CP_Radial_D5.0mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="leredde.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3269fea8-ee32-4cc5-9920-9b98debce8f5</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>SR540</value>
+      <footprint>SR540:DO-241</footprint>
+      <fields>
+        <field name="Availability">Not in stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/SR540/Multicomp/view-part/?ref=eda</field>
+        <field name="Description">
+400mA 250V AC DC Fuse Board Mount (Cartridge Style Excluded) Through Hole Radial, Can, Vertical
+</field>
+        <field name="MF">Multicomp</field>
+        <field name="MP">SR540</field>
+        <field name="Package">DO-201 Multicomp</field>
+        <field name="Price">None</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/SR540/Multicomp/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="SR540" part="SR540" description=""/>
+      <property name="MF" value="Multicomp"/>
+      <property name="Description" value="&#xA;400mA 250V AC DC Fuse Board Mount (Cartridge Style Excluded) Through Hole Radial, Can, Vertical&#xA;"/>
+      <property name="Package" value="DO-201 Multicomp"/>
+      <property name="Price" value="None"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/SR540/Multicomp/view-part/?ref=snap"/>
+      <property name="MP" value="SR540"/>
+      <property name="Availability" value="Not in stock"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/SR540/Multicomp/view-part/?ref=eda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="leredde.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8e2da852-f363-4da7-829b-e125f8a8f8be</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Moteur</value>
+      <footprint>TerminalBlock:TerminalBlock_bornier-2_P5.08mm</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="leredde.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b14587a-fde3-4572-9a69-dab27a8daeee</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Signal</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Socket" description="Generic connector, single row, 01x02, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="leredde.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f73a202b-1466-456d-bdf3-687849450393</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Alimentation</value>
+      <footprint>TerminalBlock:TerminalBlock_bornier-2_P5.08mm</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="leredde.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>79c2a784-684b-406c-addd-4ebc2f0a71c9</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>600uH</value>
+      <footprint>Inductor_THT:L_Radial_D21.0mm_P19.00mm</footprint>
+      <libsource lib="Device" part="L_Ferrite" description="Inductor with ferrite core"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="leredde.kicad_sch"/>
+      <property name="ki_description" value="Inductor with ferrite core"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>75463d54-4a6b-4bd1-a9a8-78e97ec8975d</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>IRFZ44N</value>
+      <footprint>IRFZ44N:TO254P1016X419X2286-3</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/IRFZ44N/Infineon+Technologies/view-part/?ref=eda</field>
+        <field name="Description">
+N-Channel 55 V 49A (Tc) 94W (Tc) Through Hole TO-220AB
+</field>
+        <field name="MANUFACTURER">Infineon</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">22.86 mm</field>
+        <field name="MF">Infineon Technologies</field>
+        <field name="MP">IRFZ44N</field>
+        <field name="PARTREV">09/21/10</field>
+        <field name="Package">TO-220-3 Infineon</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=558410&amp;manufacturer=Infineon Technologies&amp;part_name=IRFZ44N&amp;search_term=None</field>
+        <field name="SNAPEDA_PN">IRFZ44N</field>
+        <field name="STANDARD">IPC 7351B</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/IRFZ44N/Infineon+Technologies/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="IRFZ44N" part="IRFZ44N" description=""/>
+      <property name="MF" value="Infineon Technologies"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="22.86 mm"/>
+      <property name="Package" value="TO-220-3 Infineon"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/IRFZ44N/Infineon+Technologies/view-part/?ref=eda"/>
+      <property name="STANDARD" value="IPC 7351B"/>
+      <property name="PARTREV" value="09/21/10"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/IRFZ44N/Infineon+Technologies/view-part/?ref=snap"/>
+      <property name="MP" value="IRFZ44N"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=558410&amp;manufacturer=Infineon Technologies&amp;part_name=IRFZ44N&amp;search_term=None"/>
+      <property name="Description" value="&#xA;N-Channel 55 V 49A (Tc) 94W (Tc) Through Hole TO-220AB&#xA;"/>
+      <property name="SNAPEDA_PN" value="IRFZ44N"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Infineon"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="leredde.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4ef5e8b4-26ac-46c3-bb0e-7fe6cf7b77a1</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>300</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="leredde.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3f78e00b-2a0d-4d40-acc4-1e921c8064fd</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>100</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="leredde.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>639b364e-56af-4079-a90e-2a1f32d46137</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>TC4420CPA</value>
+      <footprint>Package_DIP:DIP-8_W7.62mm</footprint>
+      <fields>
+        <field name="Description"> 
+Microchip MOSFET Power Driver 6A 4.5 to 18V Non-Inverting 8-Pin PDIP | Microchip Technology Inc. TC4420CPA
+</field>
+      </fields>
+      <libsource lib="TC4420CPA" part="TC4420CPA" description=""/>
+      <property name="MF" value=""/>
+      <property name="Description" value=" &#xA;Microchip MOSFET Power Driver 6A 4.5 to 18V Non-Inverting 8-Pin PDIP | Microchip Technology Inc. TC4420CPA&#xA;"/>
+      <property name="Package" value=""/>
+      <property name="Price" value=""/>
+      <property name="SnapEDA_Link" value=""/>
+      <property name="MP" value=""/>
+      <property name="Purchase-URL" value=""/>
+      <property name="Availability" value=""/>
+      <property name="Check_prices" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="leredde.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff4ac305-ad62-4581-a013-09d9ca1067b4</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x02_Socket">
+      <description>Generic connector, single row, 01x02, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02_Socket</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x02">
+      <description>Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized">
+      <description>Polarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L_Ferrite">
+      <description>Inductor with ferrite core</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L_Ferrite</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="IRFZ44N" part="IRFZ44N">
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">IRFZ44N</field>
+        <field name="Footprint">IRFZ44N:TO254P1016X419X2286-3</field>
+        <field name="MF">Infineon Technologies</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">22.86 mm</field>
+        <field name="Package">TO-220-3 Infineon</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/IRFZ44N/Infineon+Technologies/view-part/?ref=eda</field>
+        <field name="STANDARD">IPC 7351B</field>
+        <field name="PARTREV">09/21/10</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/IRFZ44N/Infineon+Technologies/view-part/?ref=snap</field>
+        <field name="MP">IRFZ44N</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=558410&amp;manufacturer=Infineon Technologies&amp;part_name=IRFZ44N&amp;search_term=None</field>
+        <field name="Description">
+N-Channel 55 V 49A (Tc) 94W (Tc) Through Hole TO-220AB
+</field>
+        <field name="SNAPEDA_PN">IRFZ44N</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Infineon</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SR540" part="SR540">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">SR540</field>
+        <field name="Footprint">SR540:DO-241</field>
+        <field name="MF">Multicomp</field>
+        <field name="Description">
+400mA 250V AC DC Fuse Board Mount (Cartridge Style Excluded) Through Hole Radial, Can, Vertical
+</field>
+        <field name="Package">DO-201 Multicomp</field>
+        <field name="Price">None</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/SR540/Multicomp/view-part/?ref=snap</field>
+        <field name="MP">SR540</field>
+        <field name="Availability">Not in stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/SR540/Multicomp/view-part/?ref=eda</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TC4420CPA" part="TC4420CPA">
+      <fields>
+        <field name="Reference">U1</field>
+        <field name="Value">TC4420CPA</field>
+        <field name="Description"> 
+Microchip MOSFET Power Driver 6A 4.5 to 18V Non-Inverting 8-Pin PDIP | Microchip Technology Inc. TC4420CPA
+</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="INPUT" type="input"/>
+        <pin num="3" name="NC" type="bidirectional"/>
+        <pin num="4" name="GND" type="passive"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="OUTPUT" type="output"/>
+        <pin num="7" name="OUTPUT" type="passive"/>
+        <pin num="8" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Users\hbrun\AppData\Local\Programs\KiCad\7.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Users\hbrun\AppData\Local\Programs\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="IRFZ44N">
+      <uri>C:/Users/hbrun/Documents/leredde/lib/IRFZ44N/IRFZ44N.kicad_sym</uri>
+    </library>
+    <library logical="SR540">
+      <uri>C:/Users/hbrun/Documents/leredde/lib/SR540/SR540.kicad_sym</uri>
+    </library>
+    <library logical="TC4420CPA">
+      <uri>C:/Users/hbrun/Documents/leredde/lib/TC4420CPA/TC4420CPA.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+24V">
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="2" name="/18V">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="3" name="/VDD">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U1" pin="8" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="4" name="GND">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="Q1" pin="3" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="GND" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="5" name="Net-(C5-Pad1)">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="Q1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="OUTPUT" pintype="output"/>
+      <node ref="U1" pin="7" pinfunction="OUTPUT" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(J1-Pin_1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(J1-Pin_2)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="D1" pin="2" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="Q1" pin="2" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(J2-Pin_2)">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="INPUT" pintype="input"/>
+    </net>
+    <net code="9" name="unconnected-(U1-NC-Pad3)">
+      <node ref="U1" pin="3" pinfunction="NC" pintype="bidirectional+no_connect"/>
+    </net>
+  </nets>
+</export>

@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/lib/Library.kicad_sym")(options "")(descr ""))
+  (lib (name "Inductance_Bruno")(type "KiCad")(uri "${KIPRJMOD}/Inductance_Bruno.kicad_sym")(options "")(descr ""))
+)
